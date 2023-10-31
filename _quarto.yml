@@ -5,6 +5,8 @@ project:
 website:
   title: "blog1"
   navbar:
+    left:
+      - resume.qmd
     right:
       - about.qmd
       - icon: github
